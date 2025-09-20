@@ -1,959 +1,959 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/website-feature-guide/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/website-feature-guide.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/best-practices/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/best-practices/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/best-practices/assembly-setup/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/best-practices/assembly-setup.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/best-practices/document-setup/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/best-practices/document-setup.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/best-practices/feature-tree-setup/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/best-practices/feature-tree-setup.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/best-practices/mastersketch-setup/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/best-practices/mastersketch-setup.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/best-practices/sub-document-setup/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/best-practices/sub-document-setup.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/contribution/contributors/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/contribution/contributors.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/contribution/mechanismContribution/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/contribution/mechanismContribution.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/contribution/methodsOfContributing/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/contribution/methodsOfContributing.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/contribution/styleguide/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/contribution/styleguide.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/strategic-design/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/strategic-design.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/design-writeups/DFC/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/design-writeups/DFC.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/design-writeups/bumperMounting/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/design-writeups/bumperMounting.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/design-writeups/chainTensioning/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/design-writeups/chainTensioning.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/design-writeups/springs-shocks/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/design-writeups/springs-shocks.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/mechanisms/arms/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/mechanisms/arms.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/mechanisms/bumpers/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/mechanisms/bumpers.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/mechanisms/drivetrains/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/mechanisms/drivetrains.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/mechanisms/elevators/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/mechanisms/elevators.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/mechanisms/intakes/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/mechanisms/intakes.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/mechanisms/linkages/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/mechanisms/linkages.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/mechanisms/shooters/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/mechanisms/shooters.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/mechanisms/turrets/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/mechanisms/turrets.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/power-transmission/electronics-sensors/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/power-transmission/electronics-sensors.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/power-transmission/linear-extension/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/power-transmission/linear-extension.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/power-transmission/motion-components/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/power-transmission/motion-components.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/power-transmission/motors/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/power-transmission/motors.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/power-transmission/pneumatics/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/power-transmission/pneumatics.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/power-transmission/rotation/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/power-transmission/rotation.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/power-transmission/wheels-rollers/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/power-transmission/wheels-rollers.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/structure/design-for-3d-printing/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/structure/design-for-3d-printing.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/structure/fasteners/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/structure/fasteners.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/structure/intro-to-3d-printing/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/structure/intro-to-3d-printing.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/structure/materials/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/structure/materials.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/structure/sheet-metal/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/structure/sheet-metal.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/structure/structure/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/structure/structure.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/structure/tolerances/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/structure/tolerances.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/structure/weight-savings/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/design-handbook/structure/weight-savings.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/introduction/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/introduction/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/introduction/preparation/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/introduction/preparation.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/introduction/the-stages/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/introduction/the-stages.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/stage0/overview/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/stage0/overview.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/stage1/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/stage1/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/stage1/stage1a/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/stage1/stage1a.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/stage1/stage1b/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/stage1/stage1b.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/stage1/stage1c/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/stage1/stage1c.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/stage1/stage1d/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/stage1/stage1d.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/stage1/stage1e/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/educators-guide/stage1/stage1e.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage4/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage4.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/new-to-cad/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/new-to-cad.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/new-to-onshape/account-setup/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/new-to-onshape/account-setup.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/new-to-onshape/documents-page/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/new-to-onshape/documents-page.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/new-to-onshape/performance-tuning/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/new-to-onshape/performance-tuning.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/old-stage0-pages/cad-software/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/old-stage0-pages/cad-software.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/old-stage0-pages/document-navigation/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/old-stage0-pages/document-navigation.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/old-stage0-pages/other-notes/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/old-stage0-pages/other-notes.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/old-stage0-pages/summary/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/old-stage0-pages/summary.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/old-stage0-pages/theory/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/old-stage0-pages/theory.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/old-stage0-pages/what-and-why-CAD/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/old-stage0-pages/what-and-why-CAD.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/required-course-tools/featurescripts/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/required-course-tools/featurescripts.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/required-course-tools/part-library/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/course-setup/required-course-tools/part-library.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section1-exercise0/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section1-exercise0.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section1-exercise1/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section1-exercise1.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section1-exercise2/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section1-exercise2.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section1-exercise3/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section1-exercise3.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section1-exercise4/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section1-exercise4.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section1-exercise5/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section1-exercise5.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section1-exercise6/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section1-exercise6.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section1-setup/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section1-setup.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section2-exercise1/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section2-exercise1.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section2-exercise2/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section2-exercise2.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section2-exercise3/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section2-exercise3.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section2-exercise4/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section2-exercise4.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section3-exercise1/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section3-exercise1.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section3-exercise2/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section3-exercise2.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section3-exercise3/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section3-exercise3.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section3-exercise4/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section3-exercise4.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section3-exercise5/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/section3-exercise5.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/assembly/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/assembly.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/exercise-setup/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/exercise-setup.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/exercise1/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/exercise1.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/exercise2/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/exercise2.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/exercise3/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/exercise3.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/exercise4/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/exercise4.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/focusing-on-improvement/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/focusing-on-improvement.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/introduction/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/introduction.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/multi-body/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/multi-body.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/sketch-part-modeling/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/sketch-part-modeling.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/summary/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1A/old-pages/summary.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/belts/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/belts.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/chain/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/chain.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/exercise1/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/exercise1.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/exercise2/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/exercise2.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/exercise3/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/exercise3.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/gears/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/gears.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/introduction/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/introduction.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/motors/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/motors.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/shafts-bearings/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/shafts-bearings.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/summary/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/summary.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/torque-speed/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1B/torque-speed.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/exercise-overview/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/exercise-overview.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/exercise1/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/exercise1.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/exercise2/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/exercise2.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/exercise3/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/exercise3.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/exercise4/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/exercise4.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/exercise5/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/exercise5.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/exercise6/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/exercise6.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/exercise7/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/exercise7.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/exercise8/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/exercise8.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/introduction/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/introduction.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/summary/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1C/summary.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1D/adding-components/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1D/adding-components.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1D/assembly-modeling/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1D/assembly-modeling.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1D/introduction/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1D/introduction.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1D/layout-sketch/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1D/layout-sketch.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1D/part-modeling/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1D/part-modeling.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1D/project-overview/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1D/project-overview.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1D/summary/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1D/summary.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1D/top-down-design/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1D/top-down-design.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1D/top-level-assembly/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1D/top-level-assembly.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/battery-mounting/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/battery-mounting.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/electronics/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/electronics.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/exercise1/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/exercise1.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/exercise2/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/exercise2.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/exercise3/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/exercise3.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/exercise4/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/exercise4.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/exercise5/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/exercise5.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/introduction/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/introduction.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/project-overview/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/project-overview.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/review-summary/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage1/1E/review-summary.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/foam-ball-conveyer/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/foam-ball-conveyer.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/fourbar-linkage/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/fourbar-linkage.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/pasta-roller-intake/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/pasta-roller-intake.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/assembly/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/assembly.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/ball-trajectory/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/ball-trajectory.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/compression-wrap/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/compression-wrap.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/exit-velocity/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/exit-velocity.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/friction-efficiency/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/friction-efficiency.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/introduction/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/introduction.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/layout-sketch/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/layout-sketch.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/part-studio/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/part-studio.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/project-overview/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/project-overview.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/spin-control/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/spin-control.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/structure-rigidity/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/structure-rigidity.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/summary/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2A/summary.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/assembly/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/assembly.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/backlash/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/backlash.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/friction/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/friction.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/introduction/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/introduction.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/layout-sketch/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/layout-sketch.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/part-studio/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/part-studio.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/power-transmission/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/power-transmission.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/project-overview/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/project-overview.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/strength/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/strength.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/summary/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/summary.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/tensioning/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2B/tensioning.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/assembly/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/assembly.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/intake-golden-rules/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/intake-golden-rules.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/introduction/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/introduction.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/layout-sketch/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/layout-sketch.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/part-studio/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/part-studio.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/pivot/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/pivot.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/project-overview/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/project-overview.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/robustness/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/robustness.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/rollers/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/rollers.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/summary/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/summary.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/zombie-axles/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2C/zombie-axles.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/assembly/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/assembly.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/cable-clamp/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/cable-clamp.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/cable-ends/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/cable-ends.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/chain-attachment/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/chain-attachment.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/drive-system/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/drive-system.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/elevator-blocks/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/elevator-blocks.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/introduction/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/introduction.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/layout-sketch/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/layout-sketch.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/part-studio/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/part-studio.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/project-overview/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/project-overview.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/rigging/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/rigging.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/summary/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage2/2D/summary.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage3/3A/introduction/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/learning-course/stage3/3A/introduction.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/drivebase/swerve/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/drivebase/swerve/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/drivebase/swerve/1678_2024_dt/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/drivebase/swerve/1678_2024_dt.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/drivebase/swerve/2910_2023_dt/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/drivebase/swerve/2910_2023_dt.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/drivebase/swerve/3005_2023_dt/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/drivebase/swerve/3005_2023_dt.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/drivebase/swerve/5460_2023_dt/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/drivebase/swerve/5460_2023_dt.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/drivebase/swerve/6328_2024_dt/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/drivebase/swerve/6328_2024_dt.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/drivebase/swerve/972_2024_dt/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/drivebase/swerve/972_2024_dt.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/drivebase/tank/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/drivebase/tank/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/elevator/cascade/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/elevator/cascade/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/elevator/cascade/2_stage_elevator/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/elevator/cascade/2_stage_elevator.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/elevator/cascade/3_stage_elevator/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/elevator/cascade/3_stage_elevator.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/elevator/cascade/wcp_greyt_elevator/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/elevator/cascade/wcp_greyt_elevator.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/elevator/continuous/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/elevator/continuous/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/elevator/continuous/1678_2023_elevator/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/elevator/continuous/1678_2023_elevator.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/elevator/continuous/3847_2023_elevator/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/elevator/continuous/3847_2023_elevator.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/end-effector/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/end-effector/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/indexer/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/indexer/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/linkage/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/linkage/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/linkage/1678_2022_intake/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/linkage/1678_2022_intake.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/linkage/4089_2022_intake/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/linkage/4089_2022_intake.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/linkage/6800_2022_intake/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/linkage/6800_2022_intake.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/slapdown/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/slapdown/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/slapdown/1678_2024_intake/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/slapdown/1678_2024_intake.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/slapdown/1778_2024_intake/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/slapdown/1778_2024_intake.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/slapdown/2910_2021_intake/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/slapdown/2910_2021_intake.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/slapdown/3847_2022_intake/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/slapdown/3847_2022_intake.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/slapdown/6423_2024_intake/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/slapdown/6423_2024_intake.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/utb/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/intake/utb/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/pivots/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/pivots/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/pivots/1690_2024_pivot/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/pivots/1690_2024_pivot.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/pivots/2910_2023_pivot/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/pivots/2910_2023_pivot.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/pivots/5460_2023_pivot/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/pivots/5460_2023_pivot.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/pivots/6328_2023_pivot/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/pivots/6328_2023_pivot.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/shooter/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/shooter/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/shooter/1678_2022_shooter/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/shooter/1678_2022_shooter.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/shooter/2910_2021_shooter/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/shooter/2910_2021_shooter.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/shooter/2910_2022_shooter/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/shooter/2910_2022_shooter.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/shooter/6328_2024_shooter/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/shooter/6328_2024_shooter.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/shooter/6800_2022_shooter/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/shooter/6800_2022_shooter.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/telescope/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/telescope/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/turret/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/mechanism-examples/turret/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/index.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/configurables/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/configurables.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/featurescripts/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/featurescripts.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/gameHistory/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/gameHistory.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/glossary/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/glossary.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/krayonCAD/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/krayonCAD.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/simplified/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/simplified.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/design-challenges/overview/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/design-challenges/overview.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/design-challenges/week1/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/design-challenges/week1.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/design-challenges/week2/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/design-challenges/week2.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/design-challenges/week3/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/design-challenges/week3.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/design-challenges/week4/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/design-challenges/week4.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
     <url>
-         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/design-challenges/week5/</loc>
+         <loc>https://hp-robotics.github.io/HPRoboticsDesign/resources/design-challenges/week5.html</loc>
          <lastmod>2025-09-20</lastmod>
     </url>
 </urlset>
