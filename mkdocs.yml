@@ -1,10 +1,10 @@
 site_name: FRCDesign.org
 site_description: A comprehensive learning guide and technical reference for FRC Design using Onshape.
-site_url: https://www.frcdesign.org/
+site_url: https://hp-robotics.github.io/HPRoboticsDesign/
 
 # Repository
 repo_name: frcdesign/FRCDesign.org
-repo_url: https://github.com/frcdesign/FRCDesign.org
+repo_url: https://github.com/HP-Robotics/HPRoboticsDesign
 edit_uri: edit/main/FRCDesign.org-DavidDev/docs/
 
 copyright: "<a href='https://wcproducts.com/' target='_blank'><img src='/img/footer/WCP.webp' width=15% height=15% style='float:right'></a> <br> Need custom laser cut parts for your robot? Check out our sponsor <a href='https://go.fabworks.com/frcdesign' class='footerlink'/>Fabworks.</a>"
