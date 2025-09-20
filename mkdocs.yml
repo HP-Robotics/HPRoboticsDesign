@@ -3,7 +3,7 @@ site_description: A comprehensive learning guide and technical reference for FRC
 site_url: https://hp-robotics.github.io/HPRoboticsDesign/
 
 # Repository
-repo_name: frcdesign/FRCDesign.org
+repo_name: HP-Robotics/HPRoboticsDesign
 repo_url: https://github.com/HP-Robotics/HPRoboticsDesign
 # edit_uri: edit/main/FRCDesign.org-DavidDev/docs/
 
