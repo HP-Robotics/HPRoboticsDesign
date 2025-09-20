@@ -1,5 +1,8 @@
 # Required Course Tools
 
+!!! Warning
+    2823 -- We will not be using any of the featurescripts that are recomended here. Featurescripts are a powerful tool that Onshape provides, but we think the ones used here are unnessesary and significantly slow Onshape down. Wherever the lessons use the featurescripts we will try to mention what to do instead. If you have questions or we missed something talk to a mentor.
+
 ## Featurescripts
 Featurescripts are custom features coded by members of the community, and are often handy tools that assist with the FRC design process. For now, follow the instructions below to install just the featurescripts you'll use in stage 1A. More thorough instructions for installing featurescripts, a list of all recommended featurescripts, and some troubleshooting tips are found on the [featurescripts page](../../../resources/featurescripts.md "Featurescript Page"){:target="_blank"}.
 

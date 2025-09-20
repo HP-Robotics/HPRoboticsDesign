@@ -1,5 +1,5 @@
 ---
-title: FRCDesign.org
+title: FRCDesign.org - HP Robotics
 social:
   cards_layout: homepage
 hide:

@@ -15,7 +15,7 @@ All of our box tubes have been perpendicular to each other. Sometimes, you’ll 
 
 In this exercise, you will create a large box tube frame in the shape of a right triangle.
 
-- Try to copy the example triangle frame. **Use the concepts you learned in the previous exercises** to do so. **Remember to insert the origin cube first!** 
+- Try to copy the example triangle frame.
 - Create or add to the side layout sketch first, then reference it as you build the frame.
 - Mess with the `aligned rectangle` tool in your layout sketch to create the geometry. Additional information and the sketch is shown below.
 

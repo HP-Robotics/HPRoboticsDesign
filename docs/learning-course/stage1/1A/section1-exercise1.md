@@ -8,6 +8,10 @@ In this exercise you'll be:
 2. Playing with the tools you learned to explore how the concepts work
 3. Understanding how these parts interact in 3D Space
 
+!!! Warning
+    2823 -- This is the first of many instances of the Tube Converter featurescript being used. For the purposes of this lesson, and most lessons, where the Tube Converter is used you can simply ignore the steps that convert the boxes into tubes.
+    In the Teams workflow tubes will be imported from MKCad (Which you should have installed earlier). How we do this, and why, is outside the scope of the lessons at this point but will be explained later.
+
 
 ### Video Tutorial
 
@@ -21,6 +25,12 @@ Inside of the document you copied and navigated through previously, follow along
     - Changing the extruded length affects the box tube.
     - The dimensions of the sketch translate directly into the dimensions of the tube.
 
+
+!!! Warning
+    2823 -- A small note is that the rectangle you used the Extrude tool on is called a "Sketch". Sketches are the foundation of every part you will make going forward.
+
+!!! Warning
+    2823 -- The lesson here, and lessons moving forward, will have you making multiple parts in one "Part Studio". For now follow the lessons, but in general we will advocate and teach to only have one part in a Part Studio, with some exceptions.
 ---
 
 ### Reference Images

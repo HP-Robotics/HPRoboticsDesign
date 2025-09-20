@@ -22,7 +22,7 @@ In this exercise we'll be adding a simple box tube frame to the drivetrain you m
 ### Layout Sketch and Drivetrain
 
 1. To properly plan this out, we must create a side layout sketch (the used previously in Exercise 5). 
-2. Start by inserting the **origin cube feature script** that you added in [required course tools](../../course-setup/required-course-tools/featurescripts.md){:target="_blank"}. Remember you can look things up using `Alt + C`! 
+2. This step had you insert an orgin cube, Ignore.
 3. Make a new sketch, select the `right plane`, and start copying this sketch. Figure out the constraints you need yourself to replicate it perfectly.
 
 
@@ -92,5 +92,8 @@ Follow the short video below to learn how to rename your features, then rename t
 <br>
 
 After you're done renaming your features, move on to the next exercise.
+
+!!! Warning
+    2823 -- Renaming sktches and features can be helpful and I won't stop you. When designing, especially when you are working on something new or are less experienced you often need to restart or drastivcally change how you are approaching the design. For this reason I would warn you that time may be wasted if you prematurely rename everything. With the design philosophy that these lessons teach, which encourages many parts within one Part Studio, the feature tree can quickly become a mess of features all interacting with different parts. This is one reason we advocate for one part per studio as it keeps the feature tree smaller and easier to work on.
 
 <br>

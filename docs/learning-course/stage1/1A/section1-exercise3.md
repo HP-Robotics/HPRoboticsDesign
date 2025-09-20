@@ -71,6 +71,9 @@ Follow along with the video below to practice sketching fundamentals in Onshape.
     - **Blue is bad** — a blue sketch means it's not fully defined yet. Everything should turn black.
     - **Less is better** — use the fewest dimensions necessary to fully lock down your design.
 
+
+!!! Warning
+    2823 -- This is really just a pet peeve that Taylor has, but the default planes (Front, Right, Top) are visual clutter and make it harder to work in sketches. These planes can be hidden by clicking the eye that shows up when hovering your mouse over the name in the feature tree. (The first thing Taylor will do when helping you is hide these planes.)
 ---
 
 ### What You Learned

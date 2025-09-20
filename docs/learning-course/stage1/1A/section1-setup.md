@@ -11,10 +11,10 @@ Exercises build on each other and always expect you to have done the previous ex
 **No matter your experience level, you should start here.** The time 1A takes to complete depends on your experience, because it relies on "figuring things out" to create connections and guide learning. It could take 30 minutes to an hour for an expert or multiple hours for complete beginners. The details you end up spending more time on are always going to be the stuff you need to learn or work on.
 
 
-!!! warning
+<!-- !!! warning
 
     Make sure the [required course tools](../../course-setup/required-course-tools/part-library.md){:target="_blank"} (the part library and featurescripts) are added to your Onshape account before starting this stage.
-
+ -->
 
 ## Box Tube Intro
 

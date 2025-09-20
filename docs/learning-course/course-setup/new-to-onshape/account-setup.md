@@ -9,6 +9,9 @@ Onshape offers a free education license for students to use their software. It i
 
 To start registering, go to the [Onshape for Education](https://onshape.com/education-plan "Onshape Education Plan"){:target="_blank"} page and select "Create EDU ACCOUNT" or click [this link](https://www.onshape.com/en/education/sign-up "Onshape Sign Up Page"){:target="_blank"}. Follow the slides below to finish registering.
 
+!!! Warning
+    2823 -- Work with one of the mentors to get your account setup and added to the Onshape team
+
 <br>
 
 <!-- Slideshow container -->

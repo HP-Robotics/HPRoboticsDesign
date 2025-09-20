@@ -4,7 +4,7 @@
 
 MKCad is an Onshape plugin that contains a large library of parts that are often useful in FRC.
 
-To install it, go to the [MKCad App](https://appstore.onshape.com/apps/Manufacturers%20Models/2ZT7X5D646R3LM3ZND7LGBTYRVM4SVH6CDDGM6I=/description "MKCad App Store Page"){:target="_blank"} in the Onshape Appstore.
+To install it, go to the [MKCad App](https://cad.onshape.com/appstore/apps/Manufacturers%20Models/6004ec5e83c40b107c183347 "MKCad App Store Page"){:target="_blank"} in the Onshape Appstore.
 
 Press "Subscribe", then "Get for Free". This will automatically add MKCad to your Onshape account.
 

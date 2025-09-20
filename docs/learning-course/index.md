@@ -20,6 +20,9 @@ The purpose of the course is to take you from zero to being able to model a full
 
 !!! Warning
     Before starting, remember to take a look at the [website feature guide](../website-feature-guide.md "Website Feature Guide Page"){:target="_blank"} to gain an understanding of the different features used throughout the learning course! 
+
+!!! Warning
+    2823 -- This course was designed by the FRCDesign.org team. For Team 2823 we are going to ue most of the lessons they have created but have some different practices we will be using in Onshape. Throughout the course we (The mentors) will use warning boxes to add additional information and deviations from the lessons
     
 
 <img src="/img/learning-course/course-setup/account-setup/signup.webp" align="right" style="width:25%; border:5px solid #ADADAD; border-radius: 2%">

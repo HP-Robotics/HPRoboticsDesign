@@ -11,6 +11,12 @@ Now that you’ve sketched individual parts, it's time to create a full drivetra
 In the document you copied previously, navigate to the part studio for Exercise 4.
 
 Watch the video below and follow along to create your drivetrain sketch while learning and practicing several part creation techniques.
+
+!!! Warning
+    2823 -- This is the first time you will see the "Orgin Cube" featurescript, though it is not mentioned. We will not use the orgin cube in the future and anywhere it mentions it in these lessons you can just use a mate connection to the Orgin. 
+
+!!! Warning
+    2823 -- This lesson has you make a plane referencing a mate connector. For the purpose of the lesson follow along, but when making reference planes use geometry such as part faces, or points on a sketch instead of mate connectors.
 <br>
 
 <figure>

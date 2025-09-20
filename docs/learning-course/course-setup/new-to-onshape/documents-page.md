@@ -18,6 +18,9 @@ On the sidebar, you can switch between stuff owned by you and stuff owned by a c
 <center><img src="/img/learning-course/course-setup/navigation/public-search-results.webp" style="width:90%; border:5px solid #ADADAD"></center>
 
 ### Customizing Your Account
+
+!!! Warning
+    2823 -- Until you know the sowtware better you should not do much if any customization.
 In the top right corner of the page, you can access the app store, learning center, and account settings. Feel free to adjust settings to your liking.
 
 - Change default units and precision

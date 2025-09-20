@@ -2,6 +2,9 @@
 
 ## Performance Tuning
 
+!!! Warning
+    2823 -- Skip this section for now, if onshape has poor performance later you may want to revisit
+
 After your initial account setup, Onshape will run a browser check to ensure compatibility. Depending on your browser, additional steps can be taken to improve performance.
 
 !!! Tip
