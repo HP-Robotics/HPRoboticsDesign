@@ -5,7 +5,7 @@ site_url: https://hp-robotics.github.io/HPRoboticsDesign/
 # Repository
 repo_name: frcdesign/FRCDesign.org
 repo_url: https://github.com/HP-Robotics/HPRoboticsDesign
-edit_uri: edit/main/FRCDesign.org-DavidDev/docs/
+# edit_uri: edit/main/FRCDesign.org-DavidDev/docs/
 
 copyright: "<a href='https://wcproducts.com/' target='_blank'><img src='/img/footer/WCP.webp' width=15% height=15% style='float:right'></a> <br> Need custom laser cut parts for your robot? Check out our sponsor <a href='https://go.fabworks.com/frcdesign' class='footerlink'/>Fabworks.</a>"
 # Configuration
